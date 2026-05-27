@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del proyecto final.
+Repositorio del proyecto final. Eqipo 3- Nayeli Garcia
 
 ## Contenido
 
